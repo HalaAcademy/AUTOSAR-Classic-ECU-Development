@@ -78,3 +78,4 @@ E: Vâng, em sẽ thực hiện và báo cáo kết quả.
 E: abc
 E: tạm biệt nhé
 E: test chat
+E: test
