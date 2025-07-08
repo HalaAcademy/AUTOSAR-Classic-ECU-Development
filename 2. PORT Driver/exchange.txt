@@ -81,3 +81,5 @@ E: tạm biệt nhé
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-184523.png)
 E: test xe
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-184842.png)
+E: test đoạn thứ 3
+![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-190021.png)
