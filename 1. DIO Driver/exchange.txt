@@ -96,3 +96,5 @@ E:
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-185638.png)
 E: test abc
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-185740.HEIC)
+E: sửa đoạn thứ 3
+![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250708-185830.jpg)
