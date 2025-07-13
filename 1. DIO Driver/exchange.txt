@@ -103,3 +103,5 @@ E: chưa hiểu line 40
 T: Lý do tại sao
 E: Dòng 92 không hiểu
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250713-211533.png)
+
+T: viết lại code đoạn đó
