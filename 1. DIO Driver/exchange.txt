@@ -101,3 +101,5 @@ E: sửa đoạn thứ 3
 E: chưa hiểu line 40
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250709-181407.png)
 T: Lý do tại sao
+E: Dòng 92 không hiểu
+![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250713-211533.png)
