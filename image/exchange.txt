@@ -1,3 +1,5 @@
 Không thể đọc nội dung file!
 E: 
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250717-111234.png)
+E: 
+![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250717-111826.png)
