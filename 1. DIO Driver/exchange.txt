@@ -1,3 +1,4 @@
 Không thể đọc nội dung file!
 T: Line 29 bị lôi
 ![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250716-210641.png)
+E: Dio.h line 17 khó hiểu
