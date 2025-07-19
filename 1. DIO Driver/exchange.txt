@@ -1,2 +1,0 @@
-E: test abc
-![img](https://raw.githubusercontent.com/HalaAcademy/AUTOSAR-Classic-ECU-Development/main/image/20250719-142053.jpeg)
